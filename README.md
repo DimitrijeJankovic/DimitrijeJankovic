@@ -64,23 +64,3 @@
     </td>
   </tr>
 </table>
-
-
-## Github stats 📊
-
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br />
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DimitrijeJankovic's Github Stats"
-      src="https://github-readme-stats.vercel.app/api/?username=DimitrijeJankovic&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676"
-      height="192px" /></a>
-  <br />
-</details>
-
-<details>
-  <summary>Activity Graph 📈</summary>
-  <br />
-
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DimitrijeJankovic's Activity Graph"
-      src="https://github-readme-activity-graph.cyclic.app/graph?username=DimitrijeJankovic&theme=react-dark" /></a>
-</details>
